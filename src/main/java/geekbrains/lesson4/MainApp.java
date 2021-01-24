@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class MainApp {
     static char[][] map;
 
+
     static Scanner scanner = new Scanner(System.in);
     static final char PLAYER_CELL = 'X';
     static final int CELLS_FOR_WIN = 3;
